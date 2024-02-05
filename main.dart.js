@@ -32931,7 +32931,7 @@ az(){return new A.EN(A.a42(40),new A.xT(A.a5T(!1,t.z)),B.m)}}
 A.EN.prototype={
 aW(){var s
 this.bv()
-try{window.location.replace("https://www.baidu.com")}catch(s){}},
+try{}catch(s){}},
 nD(a){return this.QE(a)},
 QE(a){var s=0,r=A.a2(t.z),q=this,p
 var $async$nD=A.a3(function(b,c){if(b===1)return A.a_(c,r)
